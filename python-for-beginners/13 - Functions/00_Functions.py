@@ -1,3 +1,24 @@
+
+
+
+import datetime
+# Create a function called print_time
+# This function will print the message and current time
+def print_time():
+    print('task completed')
+    print(datetime.datetime.now())
+    print() 
+
+
+
+
+
+
+
+
+
+
+
 import datetime
 # print timestamps after each section of code
 # to see how long sections of code take to run
@@ -8,27 +29,7 @@ print(datetime.datetime.now())
 print()
 
 for x in range(0,10):
-    print(x)
+   print(x)  
 print('task completed')
 print(datetime.datetime.now())
 print()
-
-import datetime
-# Create a function called print_time
-# This function will print the message and current time
-def print_time():
-    print('task completed')
-    print(datetime.datetime.now())
-    print() 
-
-first_name = 'Susan'
-# Call print_time() function to display message and current time
-print_time()
-
-for x in range(0,10):
-    print(x)
-# Call print_time() function to display message and current time
-print_time()
-
-
-
