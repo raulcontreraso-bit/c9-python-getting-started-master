@@ -17,9 +17,7 @@ def print_time():
 
 
 
-
-
-import datetime
+ 
 # print timestamps after each section of code
 # to see how long sections of code take to run
 
